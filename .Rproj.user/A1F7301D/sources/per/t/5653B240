@@ -1,0 +1,32 @@
+{
+    "id": "5653B240",
+    "path": "~/Ashley_projet/mon premier quarto1.qmd",
+    "project_path": "mon premier quarto1.qmd",
+    "type": "quarto_markdown",
+    "hash": "2915312084",
+    "contents": "",
+    "dirty": false,
+    "created": 1727935590428.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "tempName": "Untitled2",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "33,14",
+        "scrollLine": "28",
+        "docOutlineVisible": "0",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "450:676"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1727951254,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1727951254228,
+    "read_only": false,
+    "read_only_alternatives": []
+}
